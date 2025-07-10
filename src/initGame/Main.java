@@ -1,3 +1,5 @@
+package initGame;
+
 import java.awt.Color;
 
 /***********************************************************************/
@@ -172,11 +174,11 @@ public class Main {
 		/* iniciado interface gráfica */
 		
 		GameLib.initGraphics();
-		//GameLib.initGraphics_SAFE_MODE();  // chame esta versão do método caso nada seja desenhado na janela do jogo.
+		//initGame.GameLib.initGraphics_SAFE_MODE();  // chame esta versão do método caso nada seja desenhado na janela do jogo.
 		
 		/*************************************************************************************************/
 		/*                                                                                               */
-		/* Main loop do jogo                                                                             */
+		/* initGame.Main loop do jogo                                                                             */
 		/* -----------------                                                                             */
 		/*                                                                                               */
 		/* O main loop do jogo executa as seguintes operações:                                           */
@@ -655,7 +657,7 @@ public class Main {
 				}
 			}
 			
-			/* chamada a display() da classe GameLib atualiza o desenho exibido pela interface do jogo. */
+			/* chamada a display() da classe initGame.GameLib atualiza o desenho exibido pela interface do jogo. */
 			
 			GameLib.display();
 			
