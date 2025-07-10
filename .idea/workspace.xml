@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2056c98-59ee-4584-b3a3-3ba9a7adf0f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/game/enums/States.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameLib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/initGame/GameLib.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/initGame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyKeyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +65,7 @@
       <workItem from="1752156116108" duration="473000" />
       <workItem from="1752156590734" duration="36000" />
       <workItem from="1752156633911" duration="1172000" />
-      <workItem from="1752161614529" duration="5803000" />
+      <workItem from="1752161614529" duration="6823000" />
     </task>
     <servers />
   </component>
